@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm UTKARSHA JOSHI</h1>
-<h3 align="center">Hello! I am Utkarsha Joshi. I am a computer science student and driven by curiosity and a love for hands-on learning for data.</h3>
+<h3 align="center">I am a computer science student and driven by curiosity and a love for hands-on learning for data.</h3>
 
 - 📫 How to reach me **utkarshajoshi4@gmail.com**
 
